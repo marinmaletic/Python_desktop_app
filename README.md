@@ -1,2 +1,2 @@
-# MARUS-desktop-app
-Desktop python app for reading sensor temperature data from excel and writing excel an word reports with plotted graphs.
+# Python-desktop-app
+Desktop Python app for reading sensor temperature data from Excel files and writing Excel and Word reports with plotted graphs.
